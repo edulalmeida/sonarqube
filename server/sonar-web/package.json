@@ -36,7 +36,7 @@
     "react-intl": "3.12.1",
     "react-modal": "3.14.3",
     "react-redux": "5.1.1",
-    "react-router": "3.2.6",
+    "react-router": "6.30.2",
     "react-select": "4.3.1",
     "react-select-legacy": "npm:react-select@1.2.1",
     "react-virtualized": "9.21.2",
